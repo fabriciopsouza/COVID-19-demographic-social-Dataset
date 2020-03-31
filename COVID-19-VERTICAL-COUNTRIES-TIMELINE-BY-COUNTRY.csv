@@ -67,6 +67,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Afghanistan,3,110,2,4
 2020-03-28,Afghanistan,3,110,2,4
 2020-03-29,Afghanistan,3,120,2,4
+2020-03-30,Afghanistan,3,170,2,4
 2020-01-22,Albania,5,0,0,0
 2020-01-23,Albania,5,0,0,0
 2020-01-24,Albania,5,0,0,0
@@ -135,6 +136,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Albania,5,186,31,8
 2020-03-28,Albania,5,197,31,10
 2020-03-29,Albania,5,212,33,10
+2020-03-30,Albania,5,223,44,11
 2020-01-22,Algeria,5,0,0,0
 2020-01-23,Algeria,5,0,0,0
 2020-01-24,Algeria,5,0,0,0
@@ -203,6 +205,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Algeria,5,409,29,26
 2020-03-28,Algeria,5,454,31,29
 2020-03-29,Algeria,5,511,31,31
+2020-03-30,Algeria,5,584,37,35
 2020-01-22,Andorra,6,0,0,0
 2020-01-23,Andorra,6,0,0,0
 2020-01-24,Andorra,6,0,0,0
@@ -271,6 +274,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Andorra,6,267,1,3
 2020-03-28,Andorra,6,308,1,3
 2020-03-29,Andorra,6,334,1,6
+2020-03-30,Andorra,6,370,10,8
 2020-01-22,Angola,3,0,0,0
 2020-01-23,Angola,3,0,0,0
 2020-01-24,Angola,3,0,0,0
@@ -339,6 +343,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Angola,3,4,0,0
 2020-03-28,Angola,3,5,0,0
 2020-03-29,Angola,3,7,0,2
+2020-03-30,Angola,3,7,0,2
 2020-01-22,Antigua and Barbuda,4,0,0,0
 2020-01-23,Antigua and Barbuda,4,0,0,0
 2020-01-24,Antigua and Barbuda,4,0,0,0
@@ -407,6 +412,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Antigua and Barbuda,4,7,0,0
 2020-03-28,Antigua and Barbuda,4,7,0,0
 2020-03-29,Antigua and Barbuda,4,7,0,0
+2020-03-30,Antigua and Barbuda,4,7,0,0
 2020-01-22,Argentina,4,0,0,0
 2020-01-23,Argentina,4,0,0,0
 2020-01-24,Argentina,4,0,0,0
@@ -475,6 +481,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Argentina,4,589,72,13
 2020-03-28,Argentina,4,690,72,18
 2020-03-29,Argentina,4,745,72,19
+2020-03-30,Argentina,4,820,228,23
 2020-01-22,Armenia,4,0,0,0
 2020-01-23,Armenia,4,0,0,0
 2020-01-24,Armenia,4,0,0,0
@@ -543,6 +550,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Armenia,4,329,28,1
 2020-03-28,Armenia,4,407,30,1
 2020-03-29,Armenia,4,424,30,3
+2020-03-30,Armenia,4,482,30,3
 2020-01-22,Australia,6,0,0,0
 2020-01-23,Australia,6,0,0,0
 2020-01-24,Australia,6,0,0,0
@@ -611,6 +619,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Australia,6,3143,194,13
 2020-03-28,Australia,6,3640,244,14
 2020-03-29,Australia,6,3984,244,16
+2020-03-30,Australia,6,4361,257,17
 2020-01-22,Austria,6,0,0,0
 2020-01-23,Austria,6,0,0,0
 2020-01-24,Austria,6,0,0,0
@@ -679,6 +688,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Austria,6,7657,225,58
 2020-03-28,Austria,6,8271,225,68
 2020-03-29,Austria,6,8788,479,86
+2020-03-30,Austria,6,9618,636,108
 2020-01-22,Azerbaijan,4,0,0,0
 2020-01-23,Azerbaijan,4,0,0,0
 2020-01-24,Azerbaijan,4,0,0,0
@@ -747,6 +757,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Azerbaijan,4,165,15,3
 2020-03-28,Azerbaijan,4,182,15,4
 2020-03-29,Azerbaijan,4,209,15,4
+2020-03-30,Azerbaijan,4,273,26,4
 2020-01-22,Bahamas (the),4,0,0,0
 2020-01-23,Bahamas (the),4,0,0,0
 2020-01-24,Bahamas (the),4,0,0,0
@@ -815,6 +826,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Bahamas (the),4,10,1,0
 2020-03-28,Bahamas (the),4,10,1,0
 2020-03-29,Bahamas (the),4,11,1,0
+2020-03-30,Bahamas (the),4,14,1,0
 2020-01-22,Bahrain,6,0,0,0
 2020-01-23,Bahrain,6,0,0,0
 2020-01-24,Bahrain,6,0,0,0
@@ -883,6 +895,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Bahrain,6,466,227,4
 2020-03-28,Bahrain,6,476,265,4
 2020-03-29,Bahrain,6,499,272,4
+2020-03-30,Bahrain,6,515,279,4
 2020-01-22,Bangladesh,3,0,0,0
 2020-01-23,Bangladesh,3,0,0,0
 2020-01-24,Bangladesh,3,0,0,0
@@ -951,6 +964,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Bangladesh,3,48,11,5
 2020-03-28,Bangladesh,3,48,15,5
 2020-03-29,Bangladesh,3,48,15,5
+2020-03-30,Bangladesh,3,49,19,5
 2020-01-22,Barbados,4,0,0,0
 2020-01-23,Barbados,4,0,0,0
 2020-01-24,Barbados,4,0,0,0
@@ -1019,6 +1033,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Barbados,4,24,0,0
 2020-03-28,Barbados,4,26,0,0
 2020-03-29,Barbados,4,33,0,0
+2020-03-30,Barbados,4,33,0,0
 2020-01-22,Belarus,4,0,0,0
 2020-01-23,Belarus,4,0,0,0
 2020-01-24,Belarus,4,0,0,0
@@ -1087,6 +1102,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Belarus,4,94,32,0
 2020-03-28,Belarus,4,94,32,0
 2020-03-29,Belarus,4,94,32,0
+2020-03-30,Belarus,4,152,32,0
 2020-01-22,Belgium,6,0,0,0
 2020-01-23,Belgium,6,0,0,0
 2020-01-24,Belgium,6,0,0,0
@@ -1155,6 +1171,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Belgium,6,7284,858,289
 2020-03-28,Belgium,6,9134,1063,353
 2020-03-29,Belgium,6,10836,1359,431
+2020-03-30,Belgium,6,11899,1527,513
 2020-01-22,Belize,5,0,0,0
 2020-01-23,Belize,5,0,0,0
 2020-01-24,Belize,5,0,0,0
@@ -1223,6 +1240,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Belize,5,2,0,0
 2020-03-28,Belize,5,2,0,0
 2020-03-29,Belize,5,2,0,0
+2020-03-30,Belize,5,3,0,0
 2020-01-22,Benin,3,0,0,0
 2020-01-23,Benin,3,0,0,0
 2020-01-24,Benin,3,0,0,0
@@ -1291,6 +1309,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Benin,3,6,0,0
 2020-03-28,Benin,3,6,0,0
 2020-03-29,Benin,3,6,0,0
+2020-03-30,Benin,3,6,0,0
 2020-01-22,Bhutan,3,0,0,0
 2020-01-23,Bhutan,3,0,0,0
 2020-01-24,Bhutan,3,0,0,0
@@ -1359,6 +1378,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Bhutan,3,3,0,0
 2020-03-28,Bhutan,3,3,0,0
 2020-03-29,Bhutan,3,4,0,0
+2020-03-30,Bhutan,3,4,0,0
 2020-01-22,Bolivia (Plurinational State of),5,0,0,0
 2020-01-23,Bolivia (Plurinational State of),5,0,0,0
 2020-01-24,Bolivia (Plurinational State of),5,0,0,0
@@ -1427,6 +1447,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Bolivia (Plurinational State of),5,61,0,0
 2020-03-28,Bolivia (Plurinational State of),5,74,0,0
 2020-03-29,Bolivia (Plurinational State of),5,81,0,1
+2020-03-30,Bolivia (Plurinational State of),5,97,0,4
 2020-01-22,Bosnia and Herzegovina,5,0,0,0
 2020-01-23,Bosnia and Herzegovina,5,0,0,0
 2020-01-24,Bosnia and Herzegovina,5,0,0,0
@@ -1495,6 +1516,76 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Bosnia and Herzegovina,5,237,5,4
 2020-03-28,Bosnia and Herzegovina,5,258,5,5
 2020-03-29,Bosnia and Herzegovina,5,323,8,6
+2020-03-30,Bosnia and Herzegovina,5,368,17,10
+2020-01-22,Botswana,5,0,0,0
+2020-01-23,Botswana,5,0,0,0
+2020-01-24,Botswana,5,0,0,0
+2020-01-25,Botswana,5,0,0,0
+2020-01-26,Botswana,5,0,0,0
+2020-01-27,Botswana,5,0,0,0
+2020-01-28,Botswana,5,0,0,0
+2020-01-29,Botswana,5,0,0,0
+2020-01-30,Botswana,5,0,0,0
+2020-01-31,Botswana,5,0,0,0
+2020-02-01,Botswana,5,0,0,0
+2020-02-02,Botswana,5,0,0,0
+2020-02-03,Botswana,5,0,0,0
+2020-02-04,Botswana,5,0,0,0
+2020-02-05,Botswana,5,0,0,0
+2020-02-06,Botswana,5,0,0,0
+2020-02-07,Botswana,5,0,0,0
+2020-02-08,Botswana,5,0,0,0
+2020-02-09,Botswana,5,0,0,0
+2020-02-10,Botswana,5,0,0,0
+2020-02-11,Botswana,5,0,0,0
+2020-02-12,Botswana,5,0,0,0
+2020-02-13,Botswana,5,0,0,0
+2020-02-14,Botswana,5,0,0,0
+2020-02-15,Botswana,5,0,0,0
+2020-02-16,Botswana,5,0,0,0
+2020-02-17,Botswana,5,0,0,0
+2020-02-18,Botswana,5,0,0,0
+2020-02-19,Botswana,5,0,0,0
+2020-02-20,Botswana,5,0,0,0
+2020-02-21,Botswana,5,0,0,0
+2020-02-22,Botswana,5,0,0,0
+2020-02-23,Botswana,5,0,0,0
+2020-02-24,Botswana,5,0,0,0
+2020-02-25,Botswana,5,0,0,0
+2020-02-26,Botswana,5,0,0,0
+2020-02-27,Botswana,5,0,0,0
+2020-02-28,Botswana,5,0,0,0
+2020-02-29,Botswana,5,0,0,0
+2020-03-01,Botswana,5,0,0,0
+2020-03-02,Botswana,5,0,0,0
+2020-03-03,Botswana,5,0,0,0
+2020-03-04,Botswana,5,0,0,0
+2020-03-05,Botswana,5,0,0,0
+2020-03-06,Botswana,5,0,0,0
+2020-03-07,Botswana,5,0,0,0
+2020-03-08,Botswana,5,0,0,0
+2020-03-09,Botswana,5,0,0,0
+2020-03-10,Botswana,5,0,0,0
+2020-03-11,Botswana,5,0,0,0
+2020-03-12,Botswana,5,0,0,0
+2020-03-13,Botswana,5,0,0,0
+2020-03-14,Botswana,5,0,0,0
+2020-03-15,Botswana,5,0,0,0
+2020-03-16,Botswana,5,0,0,0
+2020-03-17,Botswana,5,0,0,0
+2020-03-18,Botswana,5,0,0,0
+2020-03-19,Botswana,5,0,0,0
+2020-03-20,Botswana,5,0,0,0
+2020-03-21,Botswana,5,0,0,0
+2020-03-22,Botswana,5,0,0,0
+2020-03-23,Botswana,5,0,0,0
+2020-03-24,Botswana,5,0,0,0
+2020-03-25,Botswana,5,0,0,0
+2020-03-26,Botswana,5,0,0,0
+2020-03-27,Botswana,5,0,0,0
+2020-03-28,Botswana,5,0,0,0
+2020-03-29,Botswana,5,0,0,0
+2020-03-30,Botswana,5,3,0,0
 2020-01-22,Brazil,5,0,0,0
 2020-01-23,Brazil,5,0,0,0
 2020-01-24,Brazil,5,0,0,0
@@ -1563,6 +1654,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Brazil,5,3417,6,92
 2020-03-28,Brazil,5,3904,6,111
 2020-03-29,Brazil,5,4256,6,136
+2020-03-30,Brazil,5,4579,120,159
 2020-01-22,Brunei Darussalam,6,0,0,0
 2020-01-23,Brunei Darussalam,6,0,0,0
 2020-01-24,Brunei Darussalam,6,0,0,0
@@ -1631,6 +1723,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Brunei Darussalam,6,115,11,0
 2020-03-28,Brunei Darussalam,6,120,25,1
 2020-03-29,Brunei Darussalam,6,126,34,1
+2020-03-30,Brunei Darussalam,6,127,38,1
 2020-01-22,Bulgaria,4,0,0,0
 2020-01-23,Bulgaria,4,0,0,0
 2020-01-24,Bulgaria,4,0,0,0
@@ -1699,6 +1792,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Bulgaria,4,293,9,3
 2020-03-28,Bulgaria,4,331,11,7
 2020-03-29,Bulgaria,4,346,14,8
+2020-03-30,Bulgaria,4,359,17,8
 2020-01-22,Burkina Faso,3,0,0,0
 2020-01-23,Burkina Faso,3,0,0,0
 2020-01-24,Burkina Faso,3,0,0,0
@@ -1767,6 +1861,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Burkina Faso,3,180,12,9
 2020-03-28,Burkina Faso,3,207,21,11
 2020-03-29,Burkina Faso,3,222,23,12
+2020-03-30,Burkina Faso,3,246,31,12
 2020-01-22,Burma,,0,0,0
 2020-01-23,Burma,,0,0,0
 2020-01-24,Burma,,0,0,0
@@ -1835,6 +1930,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Burma,,8,0,0
 2020-03-28,Burma,,8,0,0
 2020-03-29,Burma,,10,0,0
+2020-03-30,Burma,,14,0,0
 2020-01-22,Cabo Verde,5,0,0,0
 2020-01-23,Cabo Verde,5,0,0,0
 2020-01-24,Cabo Verde,5,0,0,0
@@ -1903,6 +1999,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Cabo Verde,5,5,0,1
 2020-03-28,Cabo Verde,5,5,0,1
 2020-03-29,Cabo Verde,5,6,0,1
+2020-03-30,Cabo Verde,5,6,0,1
 2020-01-22,Cambodia,3,0,0,0
 2020-01-23,Cambodia,3,0,0,0
 2020-01-24,Cambodia,3,0,0,0
@@ -1971,6 +2068,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Cambodia,3,99,11,0
 2020-03-28,Cambodia,3,99,13,0
 2020-03-29,Cambodia,3,103,21,0
+2020-03-30,Cambodia,3,107,21,0
 2020-01-22,Cameroon,3,0,0,0
 2020-01-23,Cameroon,3,0,0,0
 2020-01-24,Cameroon,3,0,0,0
@@ -2039,6 +2137,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Cameroon,3,91,2,2
 2020-03-28,Cameroon,3,91,2,2
 2020-03-29,Cameroon,3,139,5,6
+2020-03-30,Cameroon,3,139,5,6
 2020-01-22,Canada,6,0,0,0
 2020-01-23,Canada,6,0,0,0
 2020-01-24,Canada,6,0,0,0
@@ -2107,6 +2206,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Canada,6,4682,256,54
 2020-03-28,Canada,6,5576,466,61
 2020-03-29,Canada,6,6280,466,64
+2020-03-30,Canada,6,7398,466,80
 2020-01-22,Central African Republic (the),3,0,0,0
 2020-01-23,Central African Republic (the),3,0,0,0
 2020-01-24,Central African Republic (the),3,0,0,0
@@ -2175,6 +2275,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Central African Republic (the),3,3,0,0
 2020-03-28,Central African Republic (the),3,3,0,0
 2020-03-29,Central African Republic (the),3,3,0,0
+2020-03-30,Central African Republic (the),3,3,0,0
 2020-01-22,Chad,3,0,0,0
 2020-01-23,Chad,3,0,0,0
 2020-01-24,Chad,3,0,0,0
@@ -2243,6 +2344,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Chad,3,3,0,0
 2020-03-28,Chad,3,3,0,0
 2020-03-29,Chad,3,3,0,0
+2020-03-30,Chad,3,5,0,0
 2020-01-22,Chile,5,0,0,0
 2020-01-23,Chile,5,0,0,0
 2020-01-24,Chile,5,0,0,0
@@ -2311,6 +2413,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Chile,5,1610,43,5
 2020-03-28,Chile,5,1909,61,6
 2020-03-29,Chile,5,2139,75,7
+2020-03-30,Chile,5,2449,156,8
 2020-01-22,China,1,548,28,17
 2020-01-23,China,1,643,30,18
 2020-01-24,China,1,920,36,26
@@ -2379,6 +2482,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,China,1,81897,74720,3296
 2020-03-28,China,1,81999,75100,3299
 2020-03-29,China,1,82122,75582,3304
+2020-03-30,China,1,82198,75923,3308
 2020-01-22,Colombia,5,0,0,0
 2020-01-23,Colombia,5,0,0,0
 2020-01-24,Colombia,5,0,0,0
@@ -2447,6 +2551,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Colombia,5,539,10,6
 2020-03-28,Colombia,5,608,10,6
 2020-03-29,Colombia,5,702,10,10
+2020-03-30,Colombia,5,798,15,12
 2020-01-22,Congo (the Democratic Republic of the),3,0,0,0
 2020-01-23,Congo (the Democratic Republic of the),3,0,0,0
 2020-01-24,Congo (the Democratic Republic of the),3,0,0,0
@@ -2515,6 +2620,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Congo (the Democratic Republic of the),3,51,2,3
 2020-03-28,Congo (the Democratic Republic of the),3,65,2,6
 2020-03-29,Congo (the Democratic Republic of the),3,65,2,6
+2020-03-30,Congo (the Democratic Republic of the),3,81,2,8
 2020-01-22,Congo (the),3,0,0,0
 2020-01-23,Congo (the),3,0,0,0
 2020-01-24,Congo (the),3,0,0,0
@@ -2583,6 +2689,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Congo (the),3,4,0,0
 2020-03-28,Congo (the),3,4,0,0
 2020-03-29,Congo (the),3,19,0,0
+2020-03-30,Congo (the),3,19,0,0
 2020-01-22,Costa Rica,5,0,0,0
 2020-01-23,Costa Rica,5,0,0,0
 2020-01-24,Costa Rica,5,0,0,0
@@ -2651,6 +2758,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Costa Rica,5,263,3,2
 2020-03-28,Costa Rica,5,295,3,2
 2020-03-29,Costa Rica,5,314,3,2
+2020-03-30,Costa Rica,5,330,4,2
 2020-01-22,Croatia,4,0,0,0
 2020-01-23,Croatia,4,0,0,0
 2020-01-24,Croatia,4,0,0,0
@@ -2719,6 +2827,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Croatia,4,586,37,3
 2020-03-28,Croatia,4,657,45,5
 2020-03-29,Croatia,4,713,52,6
+2020-03-30,Croatia,4,790,67,6
 2020-01-22,Cuba,4,0,0,0
 2020-01-23,Cuba,4,0,0,0
 2020-01-24,Cuba,4,0,0,0
@@ -2787,6 +2896,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Cuba,4,80,4,2
 2020-03-28,Cuba,4,119,4,3
 2020-03-29,Cuba,4,139,4,3
+2020-03-30,Cuba,4,170,4,4
 2020-01-22,Cyprus,4,0,0,0
 2020-01-23,Cyprus,4,0,0,0
 2020-01-24,Cyprus,4,0,0,0
@@ -2855,6 +2965,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Cyprus,4,162,15,5
 2020-03-28,Cyprus,4,179,15,5
 2020-03-29,Cyprus,4,214,15,5
+2020-03-30,Cyprus,4,230,22,7
 2020-01-22,Czechia,4,0,0,0
 2020-01-23,Czechia,4,0,0,0
 2020-01-24,Czechia,4,0,0,0
@@ -2923,6 +3034,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Czechia,4,2279,11,9
 2020-03-28,Czechia,4,2631,11,11
 2020-03-29,Czechia,4,2817,11,16
+2020-03-30,Czechia,4,3001,25,23
 2020-01-22,"Côte d'Ivoire",3,0,0,0
 2020-01-23,"Côte d'Ivoire",3,0,0,0
 2020-01-24,"Côte d'Ivoire",3,0,0,0
@@ -2991,6 +3103,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,"Côte d'Ivoire",3,101,3,0
 2020-03-28,"Côte d'Ivoire",3,101,3,0
 2020-03-29,"Côte d'Ivoire",3,165,4,1
+2020-03-30,"Côte d'Ivoire",3,168,6,1
 2020-01-22,Denmark,6,0,0,0
 2020-01-23,Denmark,6,0,0,0
 2020-01-24,Denmark,6,0,0,0
@@ -3059,6 +3172,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Denmark,6,2200,57,52
 2020-03-28,Denmark,6,2366,57,65
 2020-03-29,Denmark,6,2564,73,72
+2020-03-30,Denmark,6,2755,73,77
 2020-01-22,Diamond Princess,,0,0,0
 2020-01-23,Diamond Princess,,0,0,0
 2020-01-24,Diamond Princess,,0,0,0
@@ -3127,6 +3241,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Diamond Princess,,712,597,10
 2020-03-28,Diamond Princess,,712,597,10
 2020-03-29,Diamond Princess,,712,603,10
+2020-03-30,Diamond Princess,,712,603,10
 2020-01-22,Djibouti,3,0,0,0
 2020-01-23,Djibouti,3,0,0,0
 2020-01-24,Djibouti,3,0,0,0
@@ -3195,6 +3310,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Djibouti,3,12,0,0
 2020-03-28,Djibouti,3,14,0,0
 2020-03-29,Djibouti,3,18,0,0
+2020-03-30,Djibouti,3,18,0,0
 2020-01-22,Dominica,5,0,0,0
 2020-01-23,Dominica,5,0,0,0
 2020-01-24,Dominica,5,0,0,0
@@ -3263,6 +3379,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Dominica,5,11,0,0
 2020-03-28,Dominica,5,11,0,0
 2020-03-29,Dominica,5,11,0,0
+2020-03-30,Dominica,5,11,0,0
 2020-01-22,Dominican Republic (the),5,0,0,0
 2020-01-23,Dominican Republic (the),5,0,0,0
 2020-01-24,Dominican Republic (the),5,0,0,0
@@ -3331,6 +3448,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Dominican Republic (the),5,581,3,20
 2020-03-28,Dominican Republic (the),5,719,3,28
 2020-03-29,Dominican Republic (the),5,859,3,39
+2020-03-30,Dominican Republic (the),5,901,4,42
 2020-01-22,Ecuador,5,0,0,0
 2020-01-23,Ecuador,5,0,0,0
 2020-01-24,Ecuador,5,0,0,0
@@ -3399,6 +3517,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Ecuador,5,1595,3,36
 2020-03-28,Ecuador,5,1823,3,48
 2020-03-29,Ecuador,5,1924,3,58
+2020-03-30,Ecuador,5,1962,3,60
 2020-01-22,Egypt,5,0,0,0
 2020-01-23,Egypt,5,0,0,0
 2020-01-24,Egypt,5,0,0,0
@@ -3467,6 +3586,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Egypt,5,536,116,30
 2020-03-28,Egypt,5,576,121,36
 2020-03-29,Egypt,5,609,132,40
+2020-03-30,Egypt,5,656,150,41
 2020-01-22,El Salvador,5,0,0,0
 2020-01-23,El Salvador,5,0,0,0
 2020-01-24,El Salvador,5,0,0,0
@@ -3535,6 +3655,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,El Salvador,5,13,0,0
 2020-03-28,El Salvador,5,19,0,0
 2020-03-29,El Salvador,5,24,0,0
+2020-03-30,El Salvador,5,30,0,0
 2020-01-22,Equatorial Guinea,3,0,0,0
 2020-01-23,Equatorial Guinea,3,0,0,0
 2020-01-24,Equatorial Guinea,3,0,0,0
@@ -3603,6 +3724,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Equatorial Guinea,3,12,0,0
 2020-03-28,Equatorial Guinea,3,12,0,0
 2020-03-29,Equatorial Guinea,3,12,0,0
+2020-03-30,Equatorial Guinea,3,12,0,0
 2020-01-22,Eritrea,3,0,0,0
 2020-01-23,Eritrea,3,0,0,0
 2020-01-24,Eritrea,3,0,0,0
@@ -3671,6 +3793,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Eritrea,3,6,0,0
 2020-03-28,Eritrea,3,6,0,0
 2020-03-29,Eritrea,3,12,0,0
+2020-03-30,Eritrea,3,12,0,0
 2020-01-22,Estonia,4,0,0,0
 2020-01-23,Estonia,4,0,0,0
 2020-01-24,Estonia,4,0,0,0
@@ -3739,6 +3862,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Estonia,4,575,11,1
 2020-03-28,Estonia,4,645,20,1
 2020-03-29,Estonia,4,679,20,3
+2020-03-30,Estonia,4,715,20,3
 2020-01-22,Eswatini,3,0,0,0
 2020-01-23,Eswatini,3,0,0,0
 2020-01-24,Eswatini,3,0,0,0
@@ -3807,6 +3931,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Eswatini,3,9,0,0
 2020-03-28,Eswatini,3,9,0,0
 2020-03-29,Eswatini,3,9,0,0
+2020-03-30,Eswatini,3,9,0,0
 2020-01-22,Ethiopia,3,0,0,0
 2020-01-23,Ethiopia,3,0,0,0
 2020-01-24,Ethiopia,3,0,0,0
@@ -3875,6 +4000,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Ethiopia,3,16,0,0
 2020-03-28,Ethiopia,3,16,1,0
 2020-03-29,Ethiopia,3,21,1,0
+2020-03-30,Ethiopia,3,23,4,0
 2020-01-22,Fiji,5,0,0,0
 2020-01-23,Fiji,5,0,0,0
 2020-01-24,Fiji,5,0,0,0
@@ -3943,6 +4069,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Fiji,5,5,0,0
 2020-03-28,Fiji,5,5,0,0
 2020-03-29,Fiji,5,5,0,0
+2020-03-30,Fiji,5,5,0,0
 2020-01-22,Finland,6,0,0,0
 2020-01-23,Finland,6,0,0,0
 2020-01-24,Finland,6,0,0,0
@@ -4011,6 +4138,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Finland,6,1041,10,7
 2020-03-28,Finland,6,1167,10,9
 2020-03-29,Finland,6,1240,10,11
+2020-03-30,Finland,6,1352,10,13
 2020-01-22,France,6,0,0,0
 2020-01-23,France,6,0,0,0
 2020-01-24,France,6,2,0,0
@@ -4079,6 +4207,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,France,6,33402,5707,1997
 2020-03-28,France,6,38105,5724,2317
 2020-03-29,France,6,40708,7226,2611
+2020-03-30,France,6,45170,7964,3030
 2020-01-22,Gabon,4,0,0,0
 2020-01-23,Gabon,4,0,0,0
 2020-01-24,Gabon,4,0,0,0
@@ -4147,6 +4276,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Gabon,4,7,0,1
 2020-03-28,Gabon,4,7,0,1
 2020-03-29,Gabon,4,7,0,1
+2020-03-30,Gabon,4,7,0,1
 2020-01-22,Gambia (the),3,0,0,0
 2020-01-23,Gambia (the),3,0,0,0
 2020-01-24,Gambia (the),3,0,0,0
@@ -4215,6 +4345,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Gambia (the),3,3,0,1
 2020-03-28,Gambia (the),3,3,0,1
 2020-03-29,Gambia (the),3,4,0,1
+2020-03-30,Gambia (the),3,4,0,1
 2020-01-22,Georgia,5,0,0,0
 2020-01-23,Georgia,5,0,0,0
 2020-01-24,Georgia,5,0,0,0
@@ -4283,6 +4414,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Georgia,5,83,14,0
 2020-03-28,Georgia,5,90,14,0
 2020-03-29,Georgia,5,91,18,0
+2020-03-30,Georgia,5,103,20,0
 2020-01-22,Germany,6,0,0,0
 2020-01-23,Germany,6,0,0,0
 2020-01-24,Germany,6,0,0,0
@@ -4351,6 +4483,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Germany,6,50871,6658,342
 2020-03-28,Germany,6,57695,8481,433
 2020-03-29,Germany,6,62095,9211,533
+2020-03-30,Germany,6,66885,13500,645
 2020-01-22,Ghana,3,0,0,0
 2020-01-23,Ghana,3,0,0,0
 2020-01-24,Ghana,3,0,0,0
@@ -4419,6 +4552,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Ghana,3,137,2,4
 2020-03-28,Ghana,3,141,2,5
 2020-03-29,Ghana,3,152,2,5
+2020-03-30,Ghana,3,152,2,5
 2020-01-22,Greece,4,0,0,0
 2020-01-23,Greece,4,0,0,0
 2020-01-24,Greece,4,0,0,0
@@ -4487,6 +4621,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Greece,4,966,52,28
 2020-03-28,Greece,4,1061,52,32
 2020-03-29,Greece,4,1156,52,38
+2020-03-30,Greece,4,1212,52,43
 2020-01-22,Grenada,5,0,0,0
 2020-01-23,Grenada,5,0,0,0
 2020-01-24,Grenada,5,0,0,0
@@ -4555,6 +4690,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Grenada,5,7,0,0
 2020-03-28,Grenada,5,7,0,0
 2020-03-29,Grenada,5,9,0,0
+2020-03-30,Grenada,5,9,0,0
 2020-01-22,Guatemala,5,0,0,0
 2020-01-23,Guatemala,5,0,0,0
 2020-01-24,Guatemala,5,0,0,0
@@ -4623,6 +4759,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Guatemala,5,28,4,1
 2020-03-28,Guatemala,5,34,10,1
 2020-03-29,Guatemala,5,34,10,1
+2020-03-30,Guatemala,5,36,10,1
 2020-01-22,Guinea,3,0,0,0
 2020-01-23,Guinea,3,0,0,0
 2020-01-24,Guinea,3,0,0,0
@@ -4691,6 +4828,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Guinea,3,8,0,0
 2020-03-28,Guinea,3,8,0,0
 2020-03-29,Guinea,3,16,0,0
+2020-03-30,Guinea,3,22,0,0
 2020-01-22,Guinea-Bissau,3,0,0,0
 2020-01-23,Guinea-Bissau,3,0,0,0
 2020-01-24,Guinea-Bissau,3,0,0,0
@@ -4759,6 +4897,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Guinea-Bissau,3,2,0,0
 2020-03-28,Guinea-Bissau,3,2,0,0
 2020-03-29,Guinea-Bissau,3,2,0,0
+2020-03-30,Guinea-Bissau,3,8,0,0
 2020-01-22,Guyana,5,0,0,0
 2020-01-23,Guyana,5,0,0,0
 2020-01-24,Guyana,5,0,0,0
@@ -4827,6 +4966,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Guyana,5,5,0,1
 2020-03-28,Guyana,5,8,0,1
 2020-03-29,Guyana,5,8,0,1
+2020-03-30,Guyana,5,8,0,1
 2020-01-22,Haiti,3,0,0,0
 2020-01-23,Haiti,3,0,0,0
 2020-01-24,Haiti,3,0,0,0
@@ -4895,6 +5035,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Haiti,3,8,0,0
 2020-03-28,Haiti,3,8,0,0
 2020-03-29,Haiti,3,15,1,0
+2020-03-30,Haiti,3,15,1,0
 2020-01-22,Holy See,,0,0,0
 2020-01-23,Holy See,,0,0,0
 2020-01-24,Holy See,,0,0,0
@@ -4963,6 +5104,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Holy See,,4,0,0
 2020-03-28,Holy See,,6,0,0
 2020-03-29,Holy See,,6,0,0
+2020-03-30,Holy See,,6,0,0
 2020-01-22,Honduras,5,0,0,0
 2020-01-23,Honduras,5,0,0,0
 2020-01-24,Honduras,5,0,0,0
@@ -5031,6 +5173,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Honduras,5,68,0,1
 2020-03-28,Honduras,5,95,3,1
 2020-03-29,Honduras,5,110,3,3
+2020-03-30,Honduras,5,139,3,7
 2020-01-22,Hungary,4,0,0,0
 2020-01-23,Hungary,4,0,0,0
 2020-01-24,Hungary,4,0,0,0
@@ -5099,6 +5242,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Hungary,4,300,34,10
 2020-03-28,Hungary,4,343,34,11
 2020-03-29,Hungary,4,408,34,13
+2020-03-30,Hungary,4,447,34,15
 2020-01-22,Iceland,6,0,0,0
 2020-01-23,Iceland,6,0,0,0
 2020-01-24,Iceland,6,0,0,0
@@ -5167,6 +5311,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Iceland,6,890,97,2
 2020-03-28,Iceland,6,963,114,2
 2020-03-29,Iceland,6,1020,135,2
+2020-03-30,Iceland,6,1086,157,2
 2020-01-22,India,5,0,0,0
 2020-01-23,India,5,0,0,0
 2020-01-24,India,5,0,0,0
@@ -5235,6 +5380,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,India,5,887,73,20
 2020-03-28,India,5,987,84,24
 2020-03-29,India,5,1024,95,27
+2020-03-30,India,5,1251,102,32
 2020-01-22,Indonesia,5,0,0,0
 2020-01-23,Indonesia,5,0,0,0
 2020-01-24,Indonesia,5,0,0,0
@@ -5303,6 +5449,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Indonesia,5,1046,46,87
 2020-03-28,Indonesia,5,1155,59,102
 2020-03-29,Indonesia,5,1285,64,114
+2020-03-30,Indonesia,5,1414,75,122
 2020-01-22,Iran (Islamic Republic of),5,0,0,0
 2020-01-23,Iran (Islamic Republic of),5,0,0,0
 2020-01-24,Iran (Islamic Republic of),5,0,0,0
@@ -5371,6 +5518,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Iran (Islamic Republic of),5,32332,11133,2378
 2020-03-28,Iran (Islamic Republic of),5,35408,11679,2517
 2020-03-29,Iran (Islamic Republic of),5,38309,12391,2640
+2020-03-30,Iran (Islamic Republic of),5,41495,13911,2757
 2020-01-22,Iraq,5,0,0,0
 2020-01-23,Iraq,5,0,0,0
 2020-01-24,Iraq,5,0,0,0
@@ -5439,6 +5587,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Iraq,5,458,122,40
 2020-03-28,Iraq,5,506,131,42
 2020-03-29,Iraq,5,547,143,42
+2020-03-30,Iraq,5,630,152,46
 2020-01-22,Ireland,6,0,0,0
 2020-01-23,Ireland,6,0,0,0
 2020-01-24,Ireland,6,0,0,0
@@ -5507,6 +5656,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Ireland,6,2121,5,22
 2020-03-28,Ireland,6,2415,5,36
 2020-03-29,Ireland,6,2615,5,46
+2020-03-30,Ireland,6,2910,5,54
 2020-01-22,Israel,6,0,0,0
 2020-01-23,Israel,6,0,0,0
 2020-01-24,Israel,6,0,0,0
@@ -5575,6 +5725,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Israel,6,3035,79,12
 2020-03-28,Israel,6,3619,89,12
 2020-03-29,Israel,6,4247,132,15
+2020-03-30,Israel,6,4695,161,16
 2020-01-22,Italy,1,0,0,0
 2020-01-23,Italy,1,0,0,0
 2020-01-24,Italy,1,0,0,0
@@ -5643,6 +5794,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Italy,1,86498,10950,9134
 2020-03-28,Italy,1,92472,12384,10023
 2020-03-29,Italy,1,97689,13030,10779
+2020-03-30,Italy,1,101739,14620,11591
 2020-01-22,Jamaica,5,0,0,0
 2020-01-23,Jamaica,5,0,0,0
 2020-01-24,Jamaica,5,0,0,0
@@ -5711,6 +5863,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Jamaica,5,26,2,1
 2020-03-28,Jamaica,5,30,2,1
 2020-03-29,Jamaica,5,32,2,1
+2020-03-30,Jamaica,5,36,2,1
 2020-01-22,Japan,4,2,0,0
 2020-01-23,Japan,4,2,0,0
 2020-01-24,Japan,4,2,0,0
@@ -5779,6 +5932,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Japan,4,1468,372,49
 2020-03-28,Japan,4,1693,404,52
 2020-03-29,Japan,4,1866,424,54
+2020-03-30,Japan,4,1866,424,54
 2020-01-22,Jordan,5,0,0,0
 2020-01-23,Jordan,5,0,0,0
 2020-01-24,Jordan,5,0,0,0
@@ -5847,6 +6001,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Jordan,5,235,18,1
 2020-03-28,Jordan,5,246,18,1
 2020-03-29,Jordan,5,259,18,3
+2020-03-30,Jordan,5,268,26,5
 2020-01-22,Kazakhstan,4,0,0,0
 2020-01-23,Kazakhstan,4,0,0,0
 2020-01-24,Kazakhstan,4,0,0,0
@@ -5915,6 +6070,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Kazakhstan,4,150,3,1
 2020-03-28,Kazakhstan,4,228,16,1
 2020-03-29,Kazakhstan,4,284,20,1
+2020-03-30,Kazakhstan,4,302,21,1
 2020-01-22,Kenya,3,0,0,0
 2020-01-23,Kenya,3,0,0,0
 2020-01-24,Kenya,3,0,0,0
@@ -5983,6 +6139,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Kenya,3,31,1,1
 2020-03-28,Kenya,3,38,1,1
 2020-03-29,Kenya,3,42,1,1
+2020-03-30,Kenya,3,50,1,1
 2020-01-22,Korea (the Republic of),4,1,0,0
 2020-01-23,Korea (the Republic of),4,1,0,0
 2020-01-24,Korea (the Republic of),4,2,0,0
@@ -6051,6 +6208,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Korea (the Republic of),4,9332,4528,139
 2020-03-28,Korea (the Republic of),4,9478,4811,144
 2020-03-29,Korea (the Republic of),4,9583,5033,152
+2020-03-30,Korea (the Republic of),4,9661,5228,158
 2020-01-22,Kosovo,,0,0,0
 2020-01-23,Kosovo,,0,0,0
 2020-01-24,Kosovo,,0,0,0
@@ -6119,6 +6277,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Kosovo,,86,1,1
 2020-03-28,Kosovo,,91,1,1
 2020-03-29,Kosovo,,94,1,1
+2020-03-30,Kosovo,,94,1,1
 2020-01-22,Kuwait,6,0,0,0
 2020-01-23,Kuwait,6,0,0,0
 2020-01-24,Kuwait,6,0,0,0
@@ -6187,6 +6346,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Kuwait,6,225,57,0
 2020-03-28,Kuwait,6,235,64,0
 2020-03-29,Kuwait,6,255,67,0
+2020-03-30,Kuwait,6,266,72,0
 2020-01-22,Kyrgyzstan,4,0,0,0
 2020-01-23,Kyrgyzstan,4,0,0,0
 2020-01-24,Kyrgyzstan,4,0,0,0
@@ -6255,6 +6415,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Kyrgyzstan,4,58,0,0
 2020-03-28,Kyrgyzstan,4,58,0,0
 2020-03-29,Kyrgyzstan,4,84,0,0
+2020-03-30,Kyrgyzstan,4,94,3,0
 2020-01-22,"Lao People's Democratic Republic (the)",3,0,0,0
 2020-01-23,"Lao People's Democratic Republic (the)",3,0,0,0
 2020-01-24,"Lao People's Democratic Republic (the)",3,0,0,0
@@ -6323,6 +6484,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,"Lao People's Democratic Republic (the)",3,6,0,0
 2020-03-28,"Lao People's Democratic Republic (the)",3,8,0,0
 2020-03-29,"Lao People's Democratic Republic (the)",3,8,0,0
+2020-03-30,"Lao People's Democratic Republic (the)",3,8,0,0
 2020-01-22,Latvia,4,0,0,0
 2020-01-23,Latvia,4,0,0,0
 2020-01-24,Latvia,4,0,0,0
@@ -6391,6 +6553,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Latvia,4,280,1,0
 2020-03-28,Latvia,4,305,1,0
 2020-03-29,Latvia,4,347,1,0
+2020-03-30,Latvia,4,376,1,0
 2020-01-22,Lebanon,5,0,0,0
 2020-01-23,Lebanon,5,0,0,0
 2020-01-24,Lebanon,5,0,0,0
@@ -6459,6 +6622,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Lebanon,5,391,27,8
 2020-03-28,Lebanon,5,412,30,8
 2020-03-29,Lebanon,5,438,30,10
+2020-03-30,Lebanon,5,446,35,11
 2020-01-22,Liberia,3,0,0,0
 2020-01-23,Liberia,3,0,0,0
 2020-01-24,Liberia,3,0,0,0
@@ -6527,6 +6691,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Liberia,3,3,0,0
 2020-03-28,Liberia,3,3,0,0
 2020-03-29,Liberia,3,3,0,0
+2020-03-30,Liberia,3,3,0,0
 2020-01-22,Libya,5,0,0,0
 2020-01-23,Libya,5,0,0,0
 2020-01-24,Libya,5,0,0,0
@@ -6595,6 +6760,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Libya,5,1,0,0
 2020-03-28,Libya,5,3,0,0
 2020-03-29,Libya,5,8,0,0
+2020-03-30,Libya,5,8,0,0
 2020-01-22,Liechtenstein,6,0,0,0
 2020-01-23,Liechtenstein,6,0,0,0
 2020-01-24,Liechtenstein,6,0,0,0
@@ -6663,6 +6829,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Liechtenstein,6,56,0,0
 2020-03-28,Liechtenstein,6,56,0,0
 2020-03-29,Liechtenstein,6,56,0,0
+2020-03-30,Liechtenstein,6,62,0,0
 2020-01-22,Lithuania,4,0,0,0
 2020-01-23,Lithuania,4,0,0,0
 2020-01-24,Lithuania,4,0,0,0
@@ -6731,6 +6898,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Lithuania,4,358,1,5
 2020-03-28,Lithuania,4,394,1,7
 2020-03-29,Lithuania,4,460,1,7
+2020-03-30,Lithuania,4,491,7,7
 2020-01-22,Luxembourg,6,0,0,0
 2020-01-23,Luxembourg,6,0,0,0
 2020-01-24,Luxembourg,6,0,0,0
@@ -6799,6 +6967,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Luxembourg,6,1605,40,15
 2020-03-28,Luxembourg,6,1831,40,18
 2020-03-29,Luxembourg,6,1950,40,21
+2020-03-30,Luxembourg,6,1988,40,22
 2020-01-22,MS Zaandam,,0,0,0
 2020-01-23,MS Zaandam,,0,0,0
 2020-01-24,MS Zaandam,,0,0,0
@@ -6867,6 +7036,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,MS Zaandam,,0,0,0
 2020-03-28,MS Zaandam,,2,0,0
 2020-03-29,MS Zaandam,,2,0,0
+2020-03-30,MS Zaandam,,2,0,0
 2020-01-22,Madagascar,3,0,0,0
 2020-01-23,Madagascar,3,0,0,0
 2020-01-24,Madagascar,3,0,0,0
@@ -6935,6 +7105,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Madagascar,3,26,0,0
 2020-03-28,Madagascar,3,26,0,0
 2020-03-29,Madagascar,3,39,0,0
+2020-03-30,Madagascar,3,43,0,0
 2020-01-22,Malaysia,5,0,0,0
 2020-01-23,Malaysia,5,0,0,0
 2020-01-24,Malaysia,5,0,0,0
@@ -7003,6 +7174,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Malaysia,5,2161,259,26
 2020-03-28,Malaysia,5,2320,320,27
 2020-03-29,Malaysia,5,2470,388,35
+2020-03-30,Malaysia,5,2626,479,37
 2020-01-22,Maldives,5,0,0,0
 2020-01-23,Maldives,5,0,0,0
 2020-01-24,Maldives,5,0,0,0
@@ -7071,6 +7243,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Maldives,5,16,9,0
 2020-03-28,Maldives,5,16,9,0
 2020-03-29,Maldives,5,17,13,0
+2020-03-30,Maldives,5,17,13,0
 2020-01-22,Mali,3,0,0,0
 2020-01-23,Mali,3,0,0,0
 2020-01-24,Mali,3,0,0,0
@@ -7139,6 +7312,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Mali,3,11,0,0
 2020-03-28,Mali,3,18,0,0
 2020-03-29,Mali,3,18,0,1
+2020-03-30,Mali,3,25,0,2
 2020-01-22,Malta,4,0,0,0
 2020-01-23,Malta,4,0,0,0
 2020-01-24,Malta,4,0,0,0
@@ -7207,6 +7381,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Malta,4,139,2,0
 2020-03-28,Malta,4,149,2,0
 2020-03-29,Malta,4,151,2,0
+2020-03-30,Malta,4,156,2,0
 2020-01-22,Mauritania,3,0,0,0
 2020-01-23,Mauritania,3,0,0,0
 2020-01-24,Mauritania,3,0,0,0
@@ -7275,6 +7450,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Mauritania,3,3,0,0
 2020-03-28,Mauritania,3,5,0,0
 2020-03-29,Mauritania,3,5,2,0
+2020-03-30,Mauritania,3,5,2,1
 2020-01-22,Mauritius,4,0,0,0
 2020-01-23,Mauritius,4,0,0,0
 2020-01-24,Mauritius,4,0,0,0
@@ -7343,6 +7519,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Mauritius,4,94,0,2
 2020-03-28,Mauritius,4,102,0,2
 2020-03-29,Mauritius,4,107,0,3
+2020-03-30,Mauritius,4,128,0,3
 2020-01-22,Mexico,5,0,0,0
 2020-01-23,Mexico,5,0,0,0
 2020-01-24,Mexico,5,0,0,0
@@ -7411,6 +7588,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Mexico,5,585,4,8
 2020-03-28,Mexico,5,717,4,12
 2020-03-29,Mexico,5,848,4,16
+2020-03-30,Mexico,5,993,35,20
 2020-01-22,Moldova (the Republic of),4,0,0,0
 2020-01-23,Moldova (the Republic of),4,0,0,0
 2020-01-24,Moldova (the Republic of),4,0,0,0
@@ -7479,6 +7657,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Moldova (the Republic of),4,199,2,2
 2020-03-28,Moldova (the Republic of),4,231,2,2
 2020-03-29,Moldova (the Republic of),4,263,2,2
+2020-03-30,Moldova (the Republic of),4,298,15,2
 2020-01-22,Monaco,2,0,0,0
 2020-01-23,Monaco,2,0,0,0
 2020-01-24,Monaco,2,0,0,0
@@ -7547,6 +7726,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Monaco,2,42,1,0
 2020-03-28,Monaco,2,42,1,0
 2020-03-29,Monaco,2,46,1,1
+2020-03-30,Monaco,2,49,1,1
 2020-01-22,Mongolia,4,0,0,0
 2020-01-23,Mongolia,4,0,0,0
 2020-01-24,Mongolia,4,0,0,0
@@ -7615,6 +7795,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Mongolia,4,11,0,0
 2020-03-28,Mongolia,4,12,0,0
 2020-03-29,Mongolia,4,12,0,0
+2020-03-30,Mongolia,4,12,2,0
 2020-01-22,Montenegro,4,0,0,0
 2020-01-23,Montenegro,4,0,0,0
 2020-01-24,Montenegro,4,0,0,0
@@ -7683,6 +7864,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Montenegro,4,82,0,1
 2020-03-28,Montenegro,4,84,0,1
 2020-03-29,Montenegro,4,85,0,1
+2020-03-30,Montenegro,4,91,0,1
 2020-01-22,Morocco,5,0,0,0
 2020-01-23,Morocco,5,0,0,0
 2020-01-24,Morocco,5,0,0,0
@@ -7751,6 +7933,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Morocco,5,345,11,23
 2020-03-28,Morocco,5,402,11,25
 2020-03-29,Morocco,5,479,13,26
+2020-03-30,Morocco,5,556,15,33
 2020-01-22,Mozambique,3,0,0,0
 2020-01-23,Mozambique,3,0,0,0
 2020-01-24,Mozambique,3,0,0,0
@@ -7819,6 +8002,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Mozambique,3,7,0,0
 2020-03-28,Mozambique,3,8,0,0
 2020-03-29,Mozambique,3,8,0,0
+2020-03-30,Mozambique,3,8,0,0
 2020-01-22,Namibia,5,0,0,0
 2020-01-23,Namibia,5,0,0,0
 2020-01-24,Namibia,5,0,0,0
@@ -7887,6 +8071,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Namibia,5,8,2,0
 2020-03-28,Namibia,5,8,2,0
 2020-03-29,Namibia,5,11,2,0
+2020-03-30,Namibia,5,11,2,0
 2020-01-22,Nepal,3,0,0,0
 2020-01-23,Nepal,3,0,0,0
 2020-01-24,Nepal,3,0,0,0
@@ -7955,6 +8140,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Nepal,3,4,1,0
 2020-03-28,Nepal,3,5,1,0
 2020-03-29,Nepal,3,5,1,0
+2020-03-30,Nepal,3,5,1,0
 2020-01-22,Netherlands (the),6,0,0,0
 2020-01-23,Netherlands (the),6,0,0,0
 2020-01-24,Netherlands (the),6,0,0,0
@@ -8023,6 +8209,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Netherlands (the),6,8647,6,547
 2020-03-28,Netherlands (the),6,9819,6,640
 2020-03-29,Netherlands (the),6,10930,253,772
+2020-03-30,Netherlands (the),6,11817,253,865
 2020-01-22,New Zealand,6,0,0,0
 2020-01-23,New Zealand,6,0,0,0
 2020-01-24,New Zealand,6,0,0,0
@@ -8091,6 +8278,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,New Zealand,6,368,37,0
 2020-03-28,New Zealand,6,451,50,0
 2020-03-29,New Zealand,6,514,56,1
+2020-03-30,New Zealand,6,589,63,1
 2020-01-22,Nicaragua,5,0,0,0
 2020-01-23,Nicaragua,5,0,0,0
 2020-01-24,Nicaragua,5,0,0,0
@@ -8159,6 +8347,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Nicaragua,5,2,0,1
 2020-03-28,Nicaragua,5,4,0,1
 2020-03-29,Nicaragua,5,4,0,1
+2020-03-30,Nicaragua,5,4,0,1
 2020-01-22,Niger (the),3,0,0,0
 2020-01-23,Niger (the),3,0,0,0
 2020-01-24,Niger (the),3,0,0,0
@@ -8227,6 +8416,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Niger (the),3,10,0,1
 2020-03-28,Niger (the),3,10,0,1
 2020-03-29,Niger (the),3,18,0,1
+2020-03-30,Niger (the),3,27,0,3
 2020-01-22,Nigeria,3,0,0,0
 2020-01-23,Nigeria,3,0,0,0
 2020-01-24,Nigeria,3,0,0,0
@@ -8295,6 +8485,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Nigeria,3,70,3,1
 2020-03-28,Nigeria,3,89,3,1
 2020-03-29,Nigeria,3,111,3,1
+2020-03-30,Nigeria,3,131,8,2
 2020-01-22,North Macedonia,,0,0,0
 2020-01-23,North Macedonia,,0,0,0
 2020-01-24,North Macedonia,,0,0,0
@@ -8363,6 +8554,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,North Macedonia,,219,3,3
 2020-03-28,North Macedonia,,241,3,4
 2020-03-29,North Macedonia,,259,3,6
+2020-03-30,North Macedonia,,285,12,7
 2020-01-22,Norway,6,0,0,0
 2020-01-23,Norway,6,0,0,0
 2020-01-24,Norway,6,0,0,0
@@ -8431,6 +8623,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Norway,6,3755,6,19
 2020-03-28,Norway,6,4015,7,23
 2020-03-29,Norway,6,4284,7,25
+2020-03-30,Norway,6,4445,12,32
 2020-01-22,Oman,6,0,0,0
 2020-01-23,Oman,6,0,0,0
 2020-01-24,Oman,6,0,0,0
@@ -8499,6 +8692,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Oman,6,131,23,0
 2020-03-28,Oman,6,152,23,0
 2020-03-29,Oman,6,167,23,0
+2020-03-30,Oman,6,179,29,0
 2020-01-22,Pakistan,3,0,0,0
 2020-01-23,Pakistan,3,0,0,0
 2020-01-24,Pakistan,3,0,0,0
@@ -8567,6 +8761,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Pakistan,3,1373,23,11
 2020-03-28,Pakistan,3,1495,29,12
 2020-03-29,Pakistan,3,1597,29,14
+2020-03-30,Pakistan,3,1717,76,21
 2020-01-22,Panama,5,0,0,0
 2020-01-23,Panama,5,0,0,0
 2020-01-24,Panama,5,0,0,0
@@ -8635,6 +8830,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Panama,5,674,2,9
 2020-03-28,Panama,5,786,2,14
 2020-03-29,Panama,5,901,4,17
+2020-03-30,Panama,5,989,4,24
 2020-01-22,Papua New Guinea,3,0,0,0
 2020-01-23,Papua New Guinea,3,0,0,0
 2020-01-24,Papua New Guinea,3,0,0,0
@@ -8703,6 +8899,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Papua New Guinea,3,1,0,0
 2020-03-28,Papua New Guinea,3,1,0,0
 2020-03-29,Papua New Guinea,3,1,0,0
+2020-03-30,Papua New Guinea,3,1,0,0
 2020-01-22,Paraguay,5,0,0,0
 2020-01-23,Paraguay,5,0,0,0
 2020-01-24,Paraguay,5,0,0,0
@@ -8771,6 +8968,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Paraguay,5,52,1,3
 2020-03-28,Paraguay,5,56,1,3
 2020-03-29,Paraguay,5,59,1,3
+2020-03-30,Paraguay,5,64,1,3
 2020-01-22,Peru,5,0,0,0
 2020-01-23,Peru,5,0,0,0
 2020-01-24,Peru,5,0,0,0
@@ -8839,6 +9037,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Peru,5,635,16,11
 2020-03-28,Peru,5,671,16,16
 2020-03-29,Peru,5,852,16,18
+2020-03-30,Peru,5,950,53,24
 2020-01-22,Philippines (the),5,0,0,0
 2020-01-23,Philippines (the),5,0,0,0
 2020-01-24,Philippines (the),5,0,0,0
@@ -8907,6 +9106,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Philippines (the),5,803,31,54
 2020-03-28,Philippines (the),5,1075,35,68
 2020-03-29,Philippines (the),5,1418,42,71
+2020-03-30,Philippines (the),5,1546,42,78
 2020-01-22,Poland,4,0,0,0
 2020-01-23,Poland,4,0,0,0
 2020-01-24,Poland,4,0,0,0
@@ -8975,6 +9175,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Poland,4,1389,7,16
 2020-03-28,Poland,4,1638,7,18
 2020-03-29,Poland,4,1862,7,22
+2020-03-30,Poland,4,2055,7,31
 2020-01-22,Portugal,4,0,0,0
 2020-01-23,Portugal,4,0,0,0
 2020-01-24,Portugal,4,0,0,0
@@ -9043,6 +9244,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Portugal,4,4268,43,76
 2020-03-28,Portugal,4,5170,43,100
 2020-03-29,Portugal,4,5962,43,119
+2020-03-30,Portugal,4,6408,43,140
 2020-01-22,Qatar,6,0,0,0
 2020-01-23,Qatar,6,0,0,0
 2020-01-24,Qatar,6,0,0,0
@@ -9111,6 +9313,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Qatar,6,562,43,0
 2020-03-28,Qatar,6,590,45,1
 2020-03-29,Qatar,6,634,48,1
+2020-03-30,Qatar,6,693,51,1
 2020-01-22,Romania,4,0,0,0
 2020-01-23,Romania,4,0,0,0
 2020-01-24,Romania,4,0,0,0
@@ -9179,6 +9382,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Romania,4,1292,115,26
 2020-03-28,Romania,4,1452,139,37
 2020-03-29,Romania,4,1815,206,43
+2020-03-30,Romania,4,2109,209,65
 2020-01-22,Russian Federation (the),4,0,0,0
 2020-01-23,Russian Federation (the),4,0,0,0
 2020-01-24,Russian Federation (the),4,0,0,0
@@ -9247,6 +9451,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Russian Federation (the),4,1036,45,4
 2020-03-28,Russian Federation (the),4,1264,49,4
 2020-03-29,Russian Federation (the),4,1534,64,8
+2020-03-30,Russian Federation (the),4,1836,66,9
 2020-01-22,Rwanda,3,0,0,0
 2020-01-23,Rwanda,3,0,0,0
 2020-01-24,Rwanda,3,0,0,0
@@ -9315,6 +9520,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Rwanda,3,54,0,0
 2020-03-28,Rwanda,3,60,0,0
 2020-03-29,Rwanda,3,70,0,0
+2020-03-30,Rwanda,3,70,0,0
 2020-01-22,Saint Kitts and Nevis,4,0,0,0
 2020-01-23,Saint Kitts and Nevis,4,0,0,0
 2020-01-24,Saint Kitts and Nevis,4,0,0,0
@@ -9383,6 +9589,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Saint Kitts and Nevis,4,2,0,0
 2020-03-28,Saint Kitts and Nevis,4,2,0,0
 2020-03-29,Saint Kitts and Nevis,4,2,0,0
+2020-03-30,Saint Kitts and Nevis,4,7,0,0
 2020-01-22,Saint Lucia,5,0,0,0
 2020-01-23,Saint Lucia,5,0,0,0
 2020-01-24,Saint Lucia,5,0,0,0
@@ -9451,6 +9658,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Saint Lucia,5,3,1,0
 2020-03-28,Saint Lucia,5,3,1,0
 2020-03-29,Saint Lucia,5,9,1,0
+2020-03-30,Saint Lucia,5,9,1,0
 2020-01-22,Saint Vincent and the Grenadines,5,0,0,0
 2020-01-23,Saint Vincent and the Grenadines,5,0,0,0
 2020-01-24,Saint Vincent and the Grenadines,5,0,0,0
@@ -9519,6 +9727,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Saint Vincent and the Grenadines,5,1,0,0
 2020-03-28,Saint Vincent and the Grenadines,5,1,1,0
 2020-03-29,Saint Vincent and the Grenadines,5,1,1,0
+2020-03-30,Saint Vincent and the Grenadines,5,1,1,0
 2020-01-22,San Marino,2,0,0,0
 2020-01-23,San Marino,2,0,0,0
 2020-01-24,San Marino,2,0,0,0
@@ -9587,6 +9796,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,San Marino,2,223,4,21
 2020-03-28,San Marino,2,224,6,22
 2020-03-29,San Marino,2,224,6,22
+2020-03-30,San Marino,2,230,13,25
 2020-01-22,Saudi Arabia,6,0,0,0
 2020-01-23,Saudi Arabia,6,0,0,0
 2020-01-24,Saudi Arabia,6,0,0,0
@@ -9655,6 +9865,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Saudi Arabia,6,1104,35,3
 2020-03-28,Saudi Arabia,6,1203,37,4
 2020-03-29,Saudi Arabia,6,1299,66,8
+2020-03-30,Saudi Arabia,6,1453,115,8
 2020-01-22,Senegal,3,0,0,0
 2020-01-23,Senegal,3,0,0,0
 2020-01-24,Senegal,3,0,0,0
@@ -9723,6 +9934,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Senegal,3,119,11,0
 2020-03-28,Senegal,3,130,18,0
 2020-03-29,Senegal,3,142,27,0
+2020-03-30,Senegal,3,162,27,0
 2020-01-22,Serbia,4,0,0,0
 2020-01-23,Serbia,4,0,0,0
 2020-01-24,Serbia,4,0,0,0
@@ -9791,6 +10003,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Serbia,4,457,0,1
 2020-03-28,Serbia,4,659,0,10
 2020-03-29,Serbia,4,741,0,13
+2020-03-30,Serbia,4,785,0,16
 2020-01-22,Seychelles,4,0,0,0
 2020-01-23,Seychelles,4,0,0,0
 2020-01-24,Seychelles,4,0,0,0
@@ -9859,6 +10072,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Seychelles,4,7,0,0
 2020-03-28,Seychelles,4,8,0,0
 2020-03-29,Seychelles,4,8,0,0
+2020-03-30,Seychelles,4,8,0,0
 2020-01-22,Singapore,6,0,0,0
 2020-01-23,Singapore,6,1,0,0
 2020-01-24,Singapore,6,3,0,0
@@ -9927,6 +10141,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Singapore,6,732,183,2
 2020-03-28,Singapore,6,802,198,2
 2020-03-29,Singapore,6,844,212,3
+2020-03-30,Singapore,6,879,228,3
 2020-01-22,Slovakia,4,0,0,0
 2020-01-23,Slovakia,4,0,0,0
 2020-01-24,Slovakia,4,0,0,0
@@ -9995,6 +10210,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Slovakia,4,269,2,0
 2020-03-28,Slovakia,4,292,2,0
 2020-03-29,Slovakia,4,314,2,0
+2020-03-30,Slovakia,4,336,7,0
 2020-01-22,Slovenia,4,0,0,0
 2020-01-23,Slovenia,4,0,0,0
 2020-01-24,Slovenia,4,0,0,0
@@ -10063,6 +10279,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Slovenia,4,632,10,9
 2020-03-28,Slovenia,4,684,10,9
 2020-03-29,Slovenia,4,730,10,11
+2020-03-30,Slovenia,4,756,10,11
 2020-01-22,Somalia,2,0,0,0
 2020-01-23,Somalia,2,0,0,0
 2020-01-24,Somalia,2,0,0,0
@@ -10131,6 +10348,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Somalia,2,3,0,0
 2020-03-28,Somalia,2,3,0,0
 2020-03-29,Somalia,2,3,0,0
+2020-03-30,Somalia,2,3,0,0
 2020-01-22,South Africa,5,0,0,0
 2020-01-23,South Africa,5,0,0,0
 2020-01-24,South Africa,5,0,0,0
@@ -10199,6 +10417,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,South Africa,5,1170,31,1
 2020-03-28,South Africa,5,1187,31,1
 2020-03-29,South Africa,5,1280,31,2
+2020-03-30,South Africa,5,1326,31,3
 2020-01-22,Spain,1,0,0,0
 2020-01-23,Spain,1,0,0,0
 2020-01-24,Spain,1,0,0,0
@@ -10267,6 +10486,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Spain,1,65719,9357,5138
 2020-03-28,Spain,1,73235,12285,5982
 2020-03-29,Spain,1,80110,14709,6803
+2020-03-30,Spain,1,87956,16780,7716
 2020-01-22,Sri Lanka,4,0,0,0
 2020-01-23,Sri Lanka,4,0,0,0
 2020-01-24,Sri Lanka,4,0,0,0
@@ -10335,6 +10555,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Sri Lanka,4,106,7,0
 2020-03-28,Sri Lanka,4,113,9,1
 2020-03-29,Sri Lanka,4,117,11,1
+2020-03-30,Sri Lanka,4,122,15,2
 2020-01-22,Sudan (the),3,0,0,0
 2020-01-23,Sudan (the),3,0,0,0
 2020-01-24,Sudan (the),3,0,0,0
@@ -10403,6 +10624,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Sudan (the),3,3,0,1
 2020-03-28,Sudan (the),3,5,0,1
 2020-03-29,Sudan (the),3,6,0,1
+2020-03-30,Sudan (the),3,6,0,2
 2020-01-22,Suriname,5,0,0,0
 2020-01-23,Suriname,5,0,0,0
 2020-01-24,Suriname,5,0,0,0
@@ -10471,6 +10693,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Suriname,5,8,0,0
 2020-03-28,Suriname,5,8,0,0
 2020-03-29,Suriname,5,8,0,0
+2020-03-30,Suriname,5,8,0,0
 2020-01-22,Sweden,6,0,0,0
 2020-01-23,Sweden,6,0,0,0
 2020-01-24,Sweden,6,0,0,0
@@ -10539,6 +10762,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Sweden,6,3069,16,105
 2020-03-28,Sweden,6,3447,16,105
 2020-03-29,Sweden,6,3700,16,110
+2020-03-30,Sweden,6,4028,16,146
 2020-01-22,Switzerland,6,0,0,0
 2020-01-23,Switzerland,6,0,0,0
 2020-01-24,Switzerland,6,0,0,0
@@ -10607,6 +10831,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Switzerland,6,12928,1530,231
 2020-03-28,Switzerland,6,14076,1530,264
 2020-03-29,Switzerland,6,14829,1595,300
+2020-03-30,Switzerland,6,15922,1823,359
 2020-01-22,Syrian Arab Republic,3,0,0,0
 2020-01-23,Syrian Arab Republic,3,0,0,0
 2020-01-24,Syrian Arab Republic,3,0,0,0
@@ -10675,6 +10900,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Syrian Arab Republic,3,5,0,0
 2020-03-28,Syrian Arab Republic,3,5,0,0
 2020-03-29,Syrian Arab Republic,3,9,0,1
+2020-03-30,Syrian Arab Republic,3,10,0,2
 2020-01-22,Taiwan,,1,0,0
 2020-01-23,Taiwan,,1,0,0
 2020-01-24,Taiwan,,3,0,0
@@ -10743,6 +10969,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Taiwan,,267,29,2
 2020-03-28,Taiwan,,283,30,2
 2020-03-29,Taiwan,,298,30,2
+2020-03-30,Taiwan,,306,39,5
 2020-01-22,"Tanzania, United Republic of",3,0,0,0
 2020-01-23,"Tanzania, United Republic of",3,0,0,0
 2020-01-24,"Tanzania, United Republic of",3,0,0,0
@@ -10811,6 +11038,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,"Tanzania, United Republic of",3,13,1,0
 2020-03-28,"Tanzania, United Republic of",3,14,1,0
 2020-03-29,"Tanzania, United Republic of",3,14,1,0
+2020-03-30,"Tanzania, United Republic of",3,19,1,0
 2020-01-22,Thailand,5,2,0,0
 2020-01-23,Thailand,5,3,0,0
 2020-01-24,Thailand,5,5,0,0
@@ -10879,6 +11107,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Thailand,5,1136,97,5
 2020-03-28,Thailand,5,1245,97,6
 2020-03-29,Thailand,5,1388,97,7
+2020-03-30,Thailand,5,1524,229,9
 2020-01-22,Timor-Leste,5,0,0,0
 2020-01-23,Timor-Leste,5,0,0,0
 2020-01-24,Timor-Leste,5,0,0,0
@@ -10947,6 +11176,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Timor-Leste,5,1,0,0
 2020-03-28,Timor-Leste,5,1,0,0
 2020-03-29,Timor-Leste,5,1,0,0
+2020-03-30,Timor-Leste,5,1,0,0
 2020-01-22,Togo,3,0,0,0
 2020-01-23,Togo,3,0,0,0
 2020-01-24,Togo,3,0,0,0
@@ -11015,6 +11245,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Togo,3,25,1,1
 2020-03-28,Togo,3,25,1,1
 2020-03-29,Togo,3,25,1,1
+2020-03-30,Togo,3,30,1,1
 2020-01-22,Trinidad and Tobago,4,0,0,0
 2020-01-23,Trinidad and Tobago,4,0,0,0
 2020-01-24,Trinidad and Tobago,4,0,0,0
@@ -11083,6 +11314,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Trinidad and Tobago,4,66,1,2
 2020-03-28,Trinidad and Tobago,4,74,1,3
 2020-03-29,Trinidad and Tobago,4,78,1,3
+2020-03-30,Trinidad and Tobago,4,82,1,3
 2020-01-22,Tunisia,5,0,0,0
 2020-01-23,Tunisia,5,0,0,0
 2020-01-24,Tunisia,5,0,0,0
@@ -11151,6 +11383,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Tunisia,5,227,2,6
 2020-03-28,Tunisia,5,278,2,8
 2020-03-29,Tunisia,5,312,2,8
+2020-03-30,Tunisia,5,312,3,8
 2020-01-22,Turkey,5,0,0,0
 2020-01-23,Turkey,5,0,0,0
 2020-01-24,Turkey,5,0,0,0
@@ -11219,6 +11452,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Turkey,5,5698,42,92
 2020-03-28,Turkey,5,7402,70,108
 2020-03-29,Turkey,5,9217,105,131
+2020-03-30,Turkey,5,10827,162,168
 2020-01-22,Uganda,3,0,0,0
 2020-01-23,Uganda,3,0,0,0
 2020-01-24,Uganda,3,0,0,0
@@ -11287,6 +11521,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Uganda,3,23,0,0
 2020-03-28,Uganda,3,30,0,0
 2020-03-29,Uganda,3,33,0,0
+2020-03-30,Uganda,3,33,0,0
 2020-01-22,Ukraine,4,0,0,0
 2020-01-23,Ukraine,4,0,0,0
 2020-01-24,Ukraine,4,0,0,0
@@ -11355,6 +11590,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Ukraine,4,310,5,5
 2020-03-28,Ukraine,4,356,5,9
 2020-03-29,Ukraine,4,475,6,10
+2020-03-30,Ukraine,4,548,8,13
 2020-01-22,United Arab Emirates (the),6,0,0,0
 2020-01-23,United Arab Emirates (the),6,0,0,0
 2020-01-24,United Arab Emirates (the),6,0,0,0
@@ -11423,6 +11659,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,United Arab Emirates (the),6,405,52,2
 2020-03-28,United Arab Emirates (the),6,468,52,2
 2020-03-29,United Arab Emirates (the),6,570,58,3
+2020-03-30,United Arab Emirates (the),6,611,61,5
 2020-01-22,United Kingdom of Great Britain and Northern Ireland (the),6,0,0,0
 2020-01-23,United Kingdom of Great Britain and Northern Ireland (the),6,0,0,0
 2020-01-24,United Kingdom of Great Britain and Northern Ireland (the),6,0,0,0
@@ -11491,6 +11728,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,United Kingdom of Great Britain and Northern Ireland (the),6,14745,151,761
 2020-03-28,United Kingdom of Great Britain and Northern Ireland (the),6,17312,151,1021
 2020-03-29,United Kingdom of Great Britain and Northern Ireland (the),6,19780,151,1231
+2020-03-30,United Kingdom of Great Britain and Northern Ireland (the),6,22453,171,1411
 2020-01-22,United States of America (the),1,1,0,0
 2020-01-23,United States of America (the),1,1,0,0
 2020-01-24,United States of America (the),1,2,0,0
@@ -11559,6 +11797,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,United States of America (the),1,101657,869,1581
 2020-03-28,United States of America (the),1,121478,1072,2026
 2020-03-29,United States of America (the),1,140886,2665,2467
+2020-03-30,United States of America (the),1,161807,5644,2978
 2020-01-22,Uruguay,5,0,0,0
 2020-01-23,Uruguay,5,0,0,0
 2020-01-24,Uruguay,5,0,0,0
@@ -11627,6 +11866,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Uruguay,5,238,0,0
 2020-03-28,Uruguay,5,274,0,0
 2020-03-29,Uruguay,5,304,0,1
+2020-03-30,Uruguay,5,310,0,1
 2020-01-22,Uzbekistan,4,0,0,0
 2020-01-23,Uzbekistan,4,0,0,0
 2020-01-24,Uzbekistan,4,0,0,0
@@ -11695,6 +11935,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Uzbekistan,4,88,5,1
 2020-03-28,Uzbekistan,4,104,5,2
 2020-03-29,Uzbekistan,4,144,7,2
+2020-03-30,Uzbekistan,4,149,7,2
 2020-01-22,Venezuela (Bolivarian Republic of),5,0,0,0
 2020-01-23,Venezuela (Bolivarian Republic of),5,0,0,0
 2020-01-24,Venezuela (Bolivarian Republic of),5,0,0,0
@@ -11763,6 +12004,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Venezuela (Bolivarian Republic of),5,107,31,1
 2020-03-28,Venezuela (Bolivarian Republic of),5,119,39,2
 2020-03-29,Venezuela (Bolivarian Republic of),5,119,39,2
+2020-03-30,Venezuela (Bolivarian Republic of),5,135,39,3
 2020-01-22,Viet Nam,5,0,0,0
 2020-01-23,Viet Nam,5,2,0,0
 2020-01-24,Viet Nam,5,2,0,0
@@ -11831,6 +12073,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Viet Nam,5,163,20,0
 2020-03-28,Viet Nam,5,174,21,0
 2020-03-29,Viet Nam,5,188,25,0
+2020-03-30,Viet Nam,5,203,55,0
 2020-01-22,West Bank and Gaza,,0,0,0
 2020-01-23,West Bank and Gaza,,0,0,0
 2020-01-24,West Bank and Gaza,,0,0,0
@@ -11899,6 +12142,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,West Bank and Gaza,,91,17,1
 2020-03-28,West Bank and Gaza,,98,18,1
 2020-03-29,West Bank and Gaza,,109,18,1
+2020-03-30,West Bank and Gaza,,116,18,1
 2020-01-22,Zambia,3,0,0,0
 2020-01-23,Zambia,3,0,0,0
 2020-01-24,Zambia,3,0,0,0
@@ -11967,6 +12211,7 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Zambia,3,22,0,0
 2020-03-28,Zambia,3,28,0,0
 2020-03-29,Zambia,3,29,0,0
+2020-03-30,Zambia,3,35,0,0
 2020-01-22,Zimbabwe,3,0,0,0
 2020-01-23,Zimbabwe,3,0,0,0
 2020-01-24,Zimbabwe,3,0,0,0
@@ -12035,3 +12280,4 @@ Date,Country/Region,Cluster,Sum_Confirmed,Sum_Recovered,"Sum_Deaths"
 2020-03-27,Zimbabwe,3,5,0,1
 2020-03-28,Zimbabwe,3,7,0,1
 2020-03-29,Zimbabwe,3,7,0,1
+2020-03-30,Zimbabwe,3,7,0,1
